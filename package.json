@@ -1,5 +1,5 @@
 {
-	"name": "arrocy/eslint-config",
+	"name": "eslint-config",
 	"version": "1.0.0",
 	"main": "index.json",
 	"dependencies": {
